@@ -4,18 +4,18 @@
 
 ## Privacy Policy
 
-We are very much aware about how important privacy is for our users. We take a lot of steps to make sure your data remains confidential and protected.
+We understand how important it is to our users to keep their information confidential and protected.
 
-### What Data Do We COllect
+### What Data Do We Collect
 
 By using the bot you understand, and consent us to, collect the following data:
 - Which commands you run, Amount of times you have ran a certain command & Message Timestamps 
 - Usernames, User ID's & User Discriminators
 - Guild ID, Member Count
 
-### HOW WE USE YOUR DATA
+### How Do We Use Your Data
 
-Your data is used to provide essential features in the game. From providing in depth stats about gameplay and performance of your server, to providing ranks to users and servers so they can compete with each other. We also use your data to combat alters and cheaters.
+Your data is used to provide base features inside of the application Such as Providing Base Information inside of the Application e.g. Balance, Bank, Bank Size, Inventory Items etc.
 
 ### Who Has Access To Your Data
 
